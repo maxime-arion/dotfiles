@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api user/emails | jq -r '.[].email'
+	email = maxime.arion.pro@gmail.com
 	name = Maxime Arion
